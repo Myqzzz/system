@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67452c82-ef51-4c29-9107-05ed5859d581" name="Default Changelist" comment="" />
+    <list default="true" id="67452c82-ef51-4c29-9107-05ed5859d581" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlCheck.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_bootstarp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/注册modal.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1gdAXsmbvZsiStsxDlHxTGICuG4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,12 +42,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598434138441</updated>
       <workItem from="1598434139468" duration="9200000" />
-      <workItem from="1598449103485" duration="2030000" />
+      <workItem from="1598449103485" duration="6060000" />
     </task>
     <servers />
   </component>
@@ -64,6 +78,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598451645621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598451645621" />
     <state x="953" y="351" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598435455736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -80,9 +98,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="779" y="212" width="647" height="591" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598451135940" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1598450822411">
+    <state width="1130" height="279" key="GridCell.Tab.0.bottom" timestamp="1598452102472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598450822411" />
+    <state width="1130" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598452102472" />
+    <state width="1130" height="279" key="GridCell.Tab.0.center" timestamp="1598452102472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1130" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598452102472" />
+    <state width="1130" height="279" key="GridCell.Tab.0.left" timestamp="1598452102472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1130" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598452102472" />
+    <state width="1130" height="279" key="GridCell.Tab.0.right" timestamp="1598452102472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1130" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598452102472" />
+    <state x="1001" y="318" key="NewPhpClassDialog" timestamp="1598452184659">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1001" y="318" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598452184659" />
+    <state x="776" y="443" key="NewPhpFileDialog" timestamp="1598453355276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598453355276" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1598453096213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598453096213" />
   </component>
 </project>
