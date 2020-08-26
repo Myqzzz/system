@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67452c82-ef51-4c29-9107-05ed5859d581" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gdAXsmbvZsiStsxDlHxTGICuG4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\php2020\system" />
+      <recent name="F:\php2020\system\js" />
+      <recent name="F:\php2020\system\css" />
+      <recent name="F:\php2020\system\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\php2020\system" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67452c82-ef51-4c29-9107-05ed5859d581" name="Default Changelist" comment="" />
+      <created>1598434138441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598434138441</updated>
+      <workItem from="1598434139468" duration="9200000" />
+      <workItem from="1598449103485" duration="2030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="953" y="351" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598435455736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="351" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598435455736" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598450759478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598450759478" />
+    <state x="832" y="417" width="256" height="280" key="Github.ShareDialog" timestamp="1598451085826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="417" width="256" height="280" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598451085826" />
+    <state x="779" y="212" width="647" height="591" key="Github.UntrackedFilesDialog" timestamp="1598451135940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="212" width="647" height="591" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598451135940" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1598450822411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598450822411" />
+  </component>
+</project>
